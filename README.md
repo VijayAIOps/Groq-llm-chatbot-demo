@@ -2,7 +2,7 @@ Groq LLM Chatbot Demo
 A lightweight terminal-based chatbot built using Groq’s LLaMA models and Python.
 This project demonstrates how to integrate Groq’s high‑performance inference API into a simple conversational chatbot.
 
-Features
+**Features**
 Interactive chat loop (type exit to quit)
 
 Uses llama‑3.1‑8b‑instant model from Groq
@@ -24,7 +24,9 @@ Demo_python/
 ├── .gitignore                   # Prevents .env and venv from being committed
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
-Installation
+
+
+**Installation**
 1. Clone the repository
 Code
 git clone https://github.com/VijayAIOps/Groq-llm-chatbot-demo.git
